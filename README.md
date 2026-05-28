@@ -73,7 +73,7 @@ Projeto desenvolvido por:
 - Luis Filipe  
 - Livya Carneiro
 - Leonardo  
-- Fernanda Anacledo  
+- Fernanda Anacleto  
 - Isabely Rodrigues
 - David Wilton  
 
